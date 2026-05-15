@@ -12,7 +12,15 @@ A simple, lightweight task manager designed to help you organize your work with 
 - 🎨 Clean, responsive UI built with modern web technologies
 
 ---
+---
 
+## 🛠️ Tech Stack
+- ⚛️ React
+- 🎯 Zustand (state management)
+- 🎨 Tailwind CSS (styling)
+- 🔄 Vite (bundler)
+
+---
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -25,8 +33,4 @@ git clone https://github.com/vijaysinha/Action-Desk.git
 cd Action-Desk
 npm install
 
-## 🛠️ Tech Stack
-- ⚛️ React
-- 🎯 Zustand (state management)
-- 🎨 Tailwind CSS (styling)
-- 🔄 Vite (bundler)
+
