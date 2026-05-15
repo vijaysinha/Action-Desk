@@ -24,3 +24,9 @@ A simple, lightweight task manager designed to help you organize your work with 
 git clone https://github.com/vijaysinha/Action-Desk.git
 cd Action-Desk
 npm install
+
+## 🛠️ Tech Stack
+- ⚛️ React
+- 🎯 Zustand (state management)
+- 🎨 Tailwind CSS (styling)
+- 🔄 Vite (bundler)
