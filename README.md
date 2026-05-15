@@ -12,7 +12,6 @@ A simple, lightweight task manager designed to help you organize your work with 
 - 🎨 Clean, responsive UI built with modern web technologies
 
 ---
----
 
 ## 🛠️ Tech Stack
 - ⚛️ React
@@ -21,7 +20,7 @@ A simple, lightweight task manager designed to help you organize your work with 
 - 🔄 Vite (bundler)
 
 ---
----
+
 ## 📂 Project Structure
 Action-Desk/
 ├── src/
@@ -33,8 +32,8 @@ Action-Desk/
 ├── package.json
 └── README.md
 
----
 
+---
 
 ## 🚀 Getting Started
 
@@ -47,28 +46,9 @@ Action-Desk/
 git clone https://github.com/vijaysinha/Action-Desk.git
 cd Action-Desk
 npm install
-
 ```
-
-----
-## 🤝 Contributing
-- Contributions are welcome!
-
-- Fork the repo
-
-- Create your feature branch (git checkout -b feature/YourFeature)
-
-- Commit changes (git commit -m 'Add new feature')
-
-- Push to branch (git push origin feature/YourFeature)
-
-- Open a Pull Request
-
----
-
-
----
 ## 🙌 Acknowledgements
-This script is fully Markdown‑ready and will render nicely on GitHub.  
+Inspired by productivity tools like Trello and Notion
 
-Do you want me to also prepare a **minimal quickstart README.md** (just installation + run instructions) for people who only care about setup, so you can keep both versions in your repo?
+Built with ❤️ by Vijay Sinha
+
