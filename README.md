@@ -21,6 +21,21 @@ A simple, lightweight task manager designed to help you organize your work with 
 - 🔄 Vite (bundler)
 
 ---
+---
+## 📂 Project Structure
+Action-Desk/
+├── src/
+│   ├── components/   # UI components
+│   ├── store/        # Zustand state management
+│   ├── pages/        # App pages
+│   └── assets/       # Images, icons
+├── public/
+├── package.json
+└── README.md
+
+---
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -33,4 +48,27 @@ git clone https://github.com/vijaysinha/Action-Desk.git
 cd Action-Desk
 npm install
 
+```
 
+----
+## 🤝 Contributing
+- Contributions are welcome!
+
+- Fork the repo
+
+- Create your feature branch (git checkout -b feature/YourFeature)
+
+- Commit changes (git commit -m 'Add new feature')
+
+- Push to branch (git push origin feature/YourFeature)
+
+- Open a Pull Request
+
+---
+
+
+---
+## 🙌 Acknowledgements
+This script is fully Markdown‑ready and will render nicely on GitHub.  
+
+Do you want me to also prepare a **minimal quickstart README.md** (just installation + run instructions) for people who only care about setup, so you can keep both versions in your repo?
